@@ -16,6 +16,9 @@ I'm currently pursuing a **Bachelor of Business Administration in Digital techno
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&style=for-the-badge&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?logo=googleworkspace&style=for-the-badge&logoColor=white" alt="Google Workspace">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&style=for-the-badge&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/-Digital%20Marketing-FF1493?style=for-the-badge" alt="Digital Marketing">
+<img src="https://img.shields.io/badge/-Social%20Media%20Engagement-FF69B4?style=for-the-badge" alt="Social Media Engagement">
+
 </p>
 
 ---
