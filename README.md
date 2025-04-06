@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Vansh :)  
-Welcome to my GitHub!  
+Welcome to my GitHub!
 ------
 
 ## 🧠 About Me  
