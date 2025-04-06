@@ -18,6 +18,8 @@ I'm currently pursuing a **Bachelor of Business Administration in Digital techno
   <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&style=for-the-badge&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/-Digital%20Marketing-FF1493?style=for-the-badge" alt="Digital Marketing">
 <img src="https://img.shields.io/badge/-Social%20Media%20Engagement-FF69B4?style=for-the-badge" alt="Social Media Engagement">
+<img src="https://img.shields.io/badge/-Basic%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Basic Python">
+
 
 </p>
 
